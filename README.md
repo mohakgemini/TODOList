@@ -1,6 +1,6 @@
 # TODOList
 
-This web application lets create your TODO-List. User can add and delete items from the list. User can also create different lists.
+This web application lets you create your TODO-List. User can add and delete items from the list. User can also create different lists.
 The project is deployed on heroku and uses mongoDB atlas as database.
 
 Web Link - https://calm-shore-00659.herokuapp.com/
